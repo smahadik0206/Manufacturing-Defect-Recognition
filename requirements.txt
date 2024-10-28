@@ -1,0 +1,4 @@
+openpyxl==3.0.3
+pandas==3.0.3
+numpy==1.23.5
+opencv-python
