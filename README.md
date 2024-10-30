@@ -1,4 +1,5 @@
 **Automatic Defect Recognition in Manufacturing**
+
 This project implements a machine learning solution for automating the detection of defects in manufacturing processes. Leveraging image processing and deep learning, the model classifies product images into "defective" or "non-defective" categories, aiming to improve quality control efficiency and reduce manual inspection time.
 
 **Features**
